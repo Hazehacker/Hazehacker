@@ -19,7 +19,6 @@
   - Member of the Cyberspace Affairs Department, Central South University Youth League Committee ([54shenghua](https://github.com/54shenghua))
   - Member of Network Department, Yunlugu Information Technology Center, Central South University
 - Personal Website：https://blog.hazenix.top
-- Email：L3542495583@outlook.com
 
 ---
 
