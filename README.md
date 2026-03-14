@@ -23,3 +23,28 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Hazehacker)
 
+## 🤝 Let's Connect
+
+<div align="center">
+
+  <a href="mailto:L3542495583@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" alt="Email" />
+  </a>
+  <a href="https://github.com/Hazehacker">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/hazenix56591">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+
+  <br/>
+  <br/>
+
+  **Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ projects you find interesting!**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</div>
+
