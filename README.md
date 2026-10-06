@@ -18,7 +18,7 @@
   - Minister of Network Technology, Zhixin Hall, Central South University (2025–2026)
   - Member of the Cyberspace Affairs Department, Central South University Youth League Committee ([54shenghua](https://github.com/54shenghua))
   - Member of Network Department, Yunlugu Information Technology Center, Central South University
-- Current Intern @ ByteDance (ByteCloud)
+- Current Intern @XiaoHongshu , Ex-intern @ByteDance(ByteCloud)  @Gapasea
 - Personal Website：https://blog.hazenix.top
 
 ---
@@ -53,4 +53,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
-
